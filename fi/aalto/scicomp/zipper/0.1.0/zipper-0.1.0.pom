@@ -79,12 +79,8 @@
 	<build>
 		<resources>
 			<resource>
-				<directory>src/test/resources</directory>
-			</resource>
-			<resource>
 				<directory>src/main/resources</directory>
 			</resource>
-
 		</resources>
 		<testResources>
 			<testResource>
