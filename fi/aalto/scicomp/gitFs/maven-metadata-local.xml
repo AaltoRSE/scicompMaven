@@ -3,10 +3,9 @@
   <groupId>fi.aalto.scicomp</groupId>
   <artifactId>gitFs</artifactId>
   <versioning>
-    <release>0.1.0</release>
     <versions>
-      <version>0.1.0</version>
+      <version>0.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230111103205</lastUpdated>
+    <lastUpdated>20230209040748</lastUpdated>
   </versioning>
 </metadata>
