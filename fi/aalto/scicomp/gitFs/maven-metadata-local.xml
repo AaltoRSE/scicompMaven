@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>fi.aalto.scicomp</groupId>
   <artifactId>gitFs</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1.0-SNAPSHOT</version>
-      <version>0.1.1-SNAPSHOT</version>
-    </versions>
-    <lastUpdated>20230626073539</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20230828090719</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.2-SNAPSHOT</value>
+        <updated>20230828090719</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.2-SNAPSHOT</value>
+        <updated>20230828090719</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
